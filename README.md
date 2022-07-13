@@ -4,6 +4,8 @@
  
  Berikut contoh hasil setup yang akan kita lakukan :
  
+ ![Screenshot_20220714-031708_Sistem_UI](Screenshot_20220714-031708_Sistem_UI.png)
+ 
  ### Get started
  
  Ini adalah tampilan awal termux kita :
